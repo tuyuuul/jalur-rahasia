@@ -24,7 +24,8 @@ var xxx=null;
 if(x=="1"){xxx="forex-trading-system.html"}
 if(x=="2"){xxx="the-best-bitcoin-trading-platforms.html"}
 if(x=="3"){xxx="what-is-bitcoin.html"}
-if(x=="4"){xxx="bitcoin-what-is-it-and-is-it-right-for.html"}a_to_ve[i].href="http://www.tonmoysarkar.me/2017/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="bitcoin-what-is-it-and-is-it-right-for.html"}
+if(x=="4"){xxx="how-one-can-trade-bitcoin-learn-bitcoin.html"}a_to_ve[i].href="http://www.tonmoysarkar.me/2017/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
